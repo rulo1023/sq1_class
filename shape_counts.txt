@@ -1,0 +1,152 @@
+2 / 4-1-1: 13
+2 / 3-1-2: 11
+Scallop / Shield: 10
+Shield / Right Fist: 9
+Left Fist / Shield: 8
+4-1-1 / 2: 8
+2 / Right 4-2: 8
+Left 4-2 / L: 7
+2 / 3-3: 7
+Shield / Barrel: 7
+Kite / Shield: 6
+L / Left 5-1: 6
+Shield / Left Fist: 6
+Barrel / Scallop: 6
+Right Pawn / Shield: 6
+Scallop / Right Fist: 6
+2 / Left 4-2: 6
+3-3 / 2: 6
+Left 4-2 / 2: 6
+Left Pawn / Right Fist: 5
+Left Fist / Barrel: 5
+Scallop / Barrel: 5
+2 / Left 5-1: 5
+Shield / Right Pawn: 5
+2 / Right 5-1: 5
+Right Fist / Left Pawn: 5
+2 / 3-2-1: 5
+Right Fist / Barrel: 5
+L / Left 4-2: 5
+Right 4-2 / 2: 5
+3-1-2 / 2: 5
+2 / 6: 5
+4-1-1 / L: 4
+Left Fist / Mushroom: 4
+Mushroom / Shield: 4
+Left Fist / Scallop: 4
+Scallop / Mushroom: 4
+Mushroom / Left Fist: 4
+Barrel / Right Fist: 4
+2-2-2 / L: 4
+Kite / Right Fist: 4
+Shield / Shield: 4
+L / 3-2-1: 4
+6 / 2: 4
+3-3 / L: 4
+Left 5-1 / 2: 4
+Scallop / Left Fist: 4
+L / 3-3: 4
+Bar / Left 4-2: 4
+Scallop / Left Pawn: 4
+Right 5-1 / L: 4
+Scallop / Kite: 4
+Left Pawn / Mushroom: 4
+Shield / Left Pawn: 4
+Left Fist / Left Pawn: 4
+Left Fist / Left Fist: 4
+3-2-1 / 2: 4
+Scallop / Right Pawn: 3
+Bar / 4-1-1: 3
+Barrel / Square: 3
+Left Pawn / Scallop: 3
+Right Fist / Scallop: 3
+Right 4-2 / Bar: 3
+Mushroom / Mushroom: 3
+Right 5-1 / Bar: 3
+Left 4-2 / Bar: 3
+L / 3-1-2: 3
+2 / 2-2-2: 3
+Right Pawn / Left Fist: 3
+Bar / Left 5-1: 3
+Scallop / Scallop: 3
+Right Pawn / Mushroom: 3
+L / 6: 3
+Barrel / Left Fist: 3
+Shield / Mushroom: 3
+Right Fist / Left Fist: 3
+Left 5-1 / L: 3
+Right 4-2 / L: 3
+Barrel / Barrel: 3
+Mushroom / Barrel: 3
+Right 5-1 / 2: 3
+Left Fist / Right Pawn: 3
+Kite / Scallop: 3
+Bar / 3-2-1: 3
+Shield / Scallop: 3
+Right Pawn / Right Fist: 3
+Square / Left Fist: 3
+Kite / Barrel: 3
+3-2-1 / L: 2
+Mushroom / Right Pawn: 2
+2-2-2 / 2: 2
+Right Fist / Shield: 2
+Right Pawn / Barrel: 2
+Right Fist / Right Fist: 2
+6-2 / Star: 2
+Barrel / Mushroom: 2
+L / Right 5-1: 2
+Shield / Kite: 2
+L / 4-1-1: 2
+Barrel / Right Pawn: 2
+Shield / Square: 2
+Bar / Right 4-2: 2
+Kite / Left Fist: 2
+Barrel / Left Pawn: 2
+3-2-1 / Bar: 2
+Bar / 2-2-2: 2
+Right Fist / Right Pawn: 2
+Mushroom / Right Fist: 2
+Right Pawn / Scallop: 2
+3-3 / Bar: 2
+Mushroom / Scallop: 2
+Barrel / Shield: 2
+Barrel / Kite: 2
+Left Fist / Square: 2
+Kite / Right Pawn: 2
+Square / Scallop: 2
+Right Pawn / Kite: 2
+6 / Bar: 2
+Square / Shield: 2
+6 / L: 2
+Kite / Kite: 2
+Left Pawn / Left Pawn: 2
+Left Pawn / Square: 2
+Kite / Left Pawn: 2
+Square / Mushroom: 1
+Mushroom / Kite: 1
+Square / Barrel: 1
+Square / Right Fist: 1
+2-2-2 / Bar: 1
+3-1-2 / L: 1
+Bar / 6: 1
+Right Fist / Kite: 1
+Bar / Right 5-1: 1
+Left Pawn / Left Fist: 1
+Right Pawn / Left Pawn: 1
+L / Right 4-2: 1
+Left 5-1 / Bar: 1
+Left Fist / Right Fist: 1
+Square / Right Pawn: 1
+Left Pawn / Right Pawn: 1
+7-1 / Star: 1
+Star / 7-1: 1
+Star / 5-3: 1
+4-1-1 / Bar: 1
+Star / 6-2: 1
+Right Fist / Square: 1
+Left Pawn / Kite: 1
+Bar / 3-1-2: 1
+Kite / Square: 1
+Square / Left Pawn: 1
+Left Pawn / Shield: 1
+Star / 4-4: 1
